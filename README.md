@@ -1,2 +1,2 @@
 # Git_test
-live link:https://github.com/Jayson-Manas/Git_test/blob/master/index.html
+live link:https://jayson-manas.github.io/Git_test/index.html
